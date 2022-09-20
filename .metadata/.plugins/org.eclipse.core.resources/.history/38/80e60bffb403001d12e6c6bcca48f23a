@@ -1,0 +1,12 @@
+package firstPackage;
+
+public class Cheery_c {
+	public static void main(String[] args) {
+		System.out.println("hello world");
+		string a="name";
+		string b="lastN";
+		string c="name and lastN";
+		System.out.println("c");
+	}
+
+}

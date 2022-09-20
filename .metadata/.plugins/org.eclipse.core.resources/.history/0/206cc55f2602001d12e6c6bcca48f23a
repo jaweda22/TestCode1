@@ -1,0 +1,22 @@
+package thiredPackage;
+
+public class thiredclass {
+	public static void main(String[] args) {
+		System.out.println("my class");
+		
+		
+
+		
+	}
+
+}
+
+
+
+
+class aa{
+	public void data() {
+		System.out.println("your class");
+		
+	}
+}
